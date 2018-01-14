@@ -1,6 +1,6 @@
 name 'cloud'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Kiran Khadatkar'
+maintainer_email 'kirankhadatkar@hotmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures cloud'
 long_description 'Installs/Configures cloud'
