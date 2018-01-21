@@ -1,4 +1,4 @@
-file 'default www' do
-	path '/var/www/html'
-	content 'Hellow World'
+file ("default www") do
+	path "/var/www/html/index.html"
+	content "Hellow World"
 end
